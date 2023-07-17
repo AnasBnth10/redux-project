@@ -1,0 +1,12 @@
+.taskCard {
+    margin: 0.8rem;
+    
+    width: 25rem;
+    
+}
+
+.tasksList {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
